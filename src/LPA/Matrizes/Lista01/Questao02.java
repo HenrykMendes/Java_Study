@@ -1,4 +1,4 @@
-package Lista01;
+package lpa.matrizes.lista01;
 
 import java.util.Scanner;
 

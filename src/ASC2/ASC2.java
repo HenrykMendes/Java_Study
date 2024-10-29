@@ -1,4 +1,4 @@
-package ASC2;
+package asc2;
 import java.util.Scanner;
 public class ASC2 {
 	public static void main(String[] args) {

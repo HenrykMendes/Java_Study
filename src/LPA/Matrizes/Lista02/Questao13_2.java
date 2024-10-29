@@ -1,6 +1,6 @@
 
 
-package Lista02;
+package lpa.matrizes.Lista02;
 import java.util.Scanner;
 public class Questao13_2 {
     public static void main (String []args){

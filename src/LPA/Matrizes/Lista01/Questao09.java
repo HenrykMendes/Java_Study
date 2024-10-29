@@ -1,7 +1,7 @@
 /*9) Faça um algoritmo que leia uma matriz M[n][n], com o valor de n informado pelo usuário, e escreva
 o número da linha que contenha a maior soma de seus elementos. Considere que a matriz só contém
 valores positivos. */
-package Lista01;
+package lpa.matrizes.lista01;
 import java.util.Scanner;
 public class Questao09 {
 

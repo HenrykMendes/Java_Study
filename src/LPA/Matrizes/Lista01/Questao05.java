@@ -2,7 +2,7 @@
 /*Faça um algoritmo que leia uma matriz M[n][n], com o valor de n informado pelo usuário, e
 calcule e escreva a soma dos elementos que estão ao mesmo tempo acima da diagonal
 principal e da secundária. */
-package Lista01;
+package lpa.matrizes.lista01rizes.lista01;
 import java.util.Scanner;
 public class Questao05 {
    public static void main(String[] args) {
