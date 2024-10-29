@@ -22,6 +22,8 @@ public class SomaDeArray {
                     resultado = vetor[contador];
                 }
             }
+
+           
             System.out.println("O segundo maior número é: " + resultado);
         } else {
             System.out.println("Lista Inválida");
