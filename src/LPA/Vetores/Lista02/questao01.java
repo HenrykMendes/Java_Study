@@ -1,4 +1,4 @@
-package LPA.Vetores;
+package lpa.vetores.lista02;
 import java.util.Scanner;
 public class questao01 {
 

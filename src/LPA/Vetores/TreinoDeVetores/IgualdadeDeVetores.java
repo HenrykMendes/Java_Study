@@ -1,4 +1,4 @@
-package TreinoDeVetores;
+package lpa.vetores.TreinoDeVetores;
 
 import java.util.Scanner;
 

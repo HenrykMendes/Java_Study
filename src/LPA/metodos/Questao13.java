@@ -1,3 +1,4 @@
+package lpa.metodos;
 import java.util.Scanner;
 public class Questao13 {
     public static void main(String[] args) {

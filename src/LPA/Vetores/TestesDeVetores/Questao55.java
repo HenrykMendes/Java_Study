@@ -1,4 +1,4 @@
-package Lista04;
+package lpa.vetores.TestesDeVetores;
 import java.util.Arrays;
 import java.util.Scanner;
 public class Questao55 {

@@ -24,7 +24,7 @@ public class Questao02 {
 */
 /*2) Faça um algoritmo que leia 10 valores e os escreva na ordem contrária à que foram 
 digitados. */
-package Lista02;
+package lpa.vetores.lista02;
 
 import java.util.Scanner;
 

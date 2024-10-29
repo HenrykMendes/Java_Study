@@ -4,7 +4,7 @@
 troque cada elemento da linha 4 com elemento correspondente da linha 2. 
 Escreva a matriz resultante. */
 
-package lpa.matrizes.lista01rizes.lista01;
+package lpa.matrizes.lista01;
 import java.util.Scanner;
 public class Questao07 {
     public static void main(String[] args) {

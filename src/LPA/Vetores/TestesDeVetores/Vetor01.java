@@ -1,4 +1,4 @@
-package TestesDeVetores;
+package lpa.vetores.TestesDeVetores;
 //import java.util.Scanner;
 public class Vetor01 {
 public static void main (String []args){//Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package Lista04;
+package lpa.vetores.Lista04;
 import java.util.Scanner;
 public class Questao62 {
     public static void main (String[]args){

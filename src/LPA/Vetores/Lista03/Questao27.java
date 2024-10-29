@@ -1,4 +1,4 @@
-package Lista03;
+package lpa.vetores.Lista03;
 import java.util.Scanner;
 @SuppressWarnings ("all") //sc.close();
 public class Questao27 {

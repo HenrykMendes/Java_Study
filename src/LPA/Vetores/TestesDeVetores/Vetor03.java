@@ -1,5 +1,5 @@
 
-package TestesDeVetores;
+package lpa.vetores.TestesDeVetores;
 import java.util.Arrays;
 import java.util.Scanner;
 @SuppressWarnings("all")

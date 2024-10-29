@@ -1,4 +1,4 @@
-package Lista04;
+package lpa.vetores.Lista04;
 import java.util.Scanner;
 import java.util.Arrays;
 @SuppressWarnings("all")

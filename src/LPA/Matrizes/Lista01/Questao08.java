@@ -4,7 +4,7 @@ Faça um algoritmo que leia uma matriz M[n][n], com o valor de n informado pelo 
 se é uma matriz identidade escrevendo: 1 - Se é uma matriz identidade; ou 0 - Se não é uma matriz
 identidade. */
 
-package lpa.matrizes.lista01rizes.lista01;
+package lpa.matrizes.lista01;
 import java.util.Scanner;
 public class Questao08 {
     public static void main (String[]args){
